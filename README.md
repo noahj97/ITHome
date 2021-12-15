@@ -61,7 +61,13 @@ footer {
 <a href="https://noahj97.github.io/ITProject/">IT Project</a>
 </p>  
 
-</article>
+section::after {
+  content: "muyy";
+  display: table;
+  clear: both;
+}
+
+  </article>
 </section>
 
 <footer>
