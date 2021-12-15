@@ -58,8 +58,9 @@ footer {
   
 <article>
 <h1>Link Hub: Follow the links for more infomation</h1>
-
+<p>
 <a href="url">My Infomation</a>
+</p>
 <p>
 <a href="url">Questions and Tests</a>
 </p>
@@ -71,7 +72,7 @@ footer {
 </section>
 
 <footer>
-  <p>"mutt"</p>
+<p>"Fun Fact: Life goal is to summit all Abel mountains."</p>
 </footer>
 
 </body>
