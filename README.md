@@ -59,7 +59,7 @@ footer {
 <article>
 <h1>Link Hub: Follow the links for more infomation</h1>
 <p>
-<a href="url">My Infomation</a>
+<a href="https://noahj97.github.io/ITInfomation/">My Infomation</a>
 </p>
 <p>
 <a href="url">Questions and Tests</a>
