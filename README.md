@@ -62,7 +62,7 @@ footer {
 <a href="https://noahj97.github.io/ITInfomation/">My Infomation</a>
 </p>
 <p>
-<a href="url">Questions and Tests</a>
+<a href="https://noahj97.github.io/ITQuestions/">Questions and Tests</a>
 </p>
 <p>
 <a href="https://noahj97.github.io/ITProject/">IT Project</a>
