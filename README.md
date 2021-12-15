@@ -31,13 +31,6 @@ article {
 }
 
 
-section::after {
-  content: "Created on the 15-12-21";
-  display: table;
-  clear: both;
-}
-
-
 footer {
   background-color: Gold;
   padding: 10px;
