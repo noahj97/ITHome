@@ -61,18 +61,12 @@ footer {
 <a href="https://noahj97.github.io/ITProject/">IT Project</a>
 </p>  
 
-section::after {
-  content: "muyy";
-  display: table;
-  clear: both;
-}
 
-  </article>
+
+</article>
 </section>
 
-<footer>
-<p>"Fun Fact: Life goal is to summit all Abel mountains."</p>
-</footer>
+
 
 </body>
 <img src="fed.jpg" alt="Page Footer">
