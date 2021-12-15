@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <title>CSS Template</title>
 <meta charset="utf-8">
