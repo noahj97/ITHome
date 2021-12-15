@@ -52,7 +52,7 @@ footer {
 <article>
 <h1>Link Hub: Follow the links for more information</h1>
 <p>
-<a href="https://noahj97.github.io/ITInfomation/">My Information</a>
+<a href="https://noahj97.github.io/ITInformation/">My Information</a>
 </p>
 <p>
 <a href="https://noahj97.github.io/ITQuestions/">Questions and Tests</a>
