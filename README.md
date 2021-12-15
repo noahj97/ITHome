@@ -76,5 +76,5 @@ footer {
 </footer>
 
 </body>
-<img src="fed.jpg" alt="Footer Picture">
+<img src="fed.jpg" alt="Page Footer">
 </html>
